@@ -1,0 +1,51 @@
+grade,chapter_title,chapter_order,topic_title,topic_order,type,question_text,question_image,option_1,option_2,option_3,option_4,correct_option,fill_answer,fill_variants,explanation,difficulty
+2,Các con số từ 0 đến 100,1,Đơn vị và chục,1,mcq,Số 35 gồm mấy chục và mấy đơn vị?,,3 chục 5 đơn vị,5 chục 3 đơn vị,35 đơn vị,3 đơn vị 5 chục,1,,,35 = 3 chục + 5 đơn vị,1
+2,Các con số từ 0 đến 100,1,Đơn vị và chục,1,fill,Số 47 có mấy chục?,,,,,,,4,bốn,47 = 4 chục + 7 đơn vị,1
+2,Các con số từ 0 đến 100,1,Các con số 11-20,2,mcq,Số nào đứng liền sau 16?,,14,15,17,18,3,,,16 + 1 = 17,1
+2,Các con số từ 0 đến 100,1,Các con số 11-20,2,fill,Số liền trước của 20 là?,,,,,,,19,mười chín,20 - 1 = 19,1
+2,Các con số từ 0 đến 100,1,Các con số 21-100,3,mcq,Số nào lớn nhất trong các số 45; 54; 39; 61?,,45,54,39,61,4,,,61 > 54 > 45 > 39,1
+2,Các con số từ 0 đến 100,1,Các con số 21-100,3,fill,Điền số còn thiếu: 76; 77; 78; ?; 80,,,,,,,79,bảy mươi chín,Dãy số tự nhiên tăng dần: 78 + 1 = 79,1
+2,Các con số từ 0 đến 100,1,Viết và đọc các con số,4,mcq,Số "năm mươi ba" viết bằng chữ số là?,,35,53,503,530,2,,,Năm mươi ba = 53,1
+2,Các con số từ 0 đến 100,1,Viết và đọc các con số,4,fill,Số 68 đọc là?,,,,,,,68,sáu mươi tám,6 chục 8 đơn vị = sáu mươi tám,1
+2,Các con số từ 0 đến 100,1,Viết và đọc các con số,4,mcq,Số nào được đọc là "bảy mươi hai"?,,27,72,712,720,2,,,Bảy mươi hai = 72,1
+2,Các con số từ 0 đến 100,1,Đơn vị và chục,1,mcq,Số nào có chữ số hàng chục là 6?,,16,61,6,106,2,,,61 có chữ số hàng chục là 6,2
+2,Phép cộng trong phạm vi 100,2,Cộng các con số tròn chục,1,mcq,20 + 30 = ?,,40,50,60,70,2,,,2 chục + 3 chục = 5 chục = 50,1
+2,Phép cộng trong phạm vi 100,2,Cộng các con số tròn chục,1,fill,40 + 50 = ?,,,,,,,90,chín mươi,4 chục + 5 chục = 9 chục = 90,1
+2,Phép cộng trong phạm vi 100,2,Cộng các con số tròn chục,1,mcq,? + 30 = 70,,30,40,50,60,2,,,70 - 30 = 40 nên ? = 40,2
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (không nhớ),2,fill,23 + 14 = ?,,,,,,,37,ba mươi bảy,23 + 14 = 37 (3+4=7; 2+1=3),1
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (không nhớ),2,mcq,42 + 35 = ?,,67,77,87,97,2,,,42 + 35 = 77 (2+5=7; 4+3=7),1
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (không nhớ),2,fill,51 + 26 = ?,,,,,,,77,bảy mươi bảy,51 + 26 = 77 (1+6=7; 5+2=7),1
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (có nhớ),3,mcq,28 + 35 = ?,,53,63,73,83,2,,,28 + 35 = 63 (8+5=13 viết 3 nhớ 1; 2+3+1=6),2
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (có nhớ),3,fill,47 + 36 = ?,,,,,,,83,tám mươi ba,47 + 36 = 83 (7+6=13 viết 3 nhớ 1; 4+3+1=8),2
+2,Phép cộng trong phạm vi 100,2,Cộng trong phạm vi 100 (có nhớ),3,mcq,An có 38 viên bi. Bình cho thêm 25 viên. An có tất cả bao nhiêu viên bi?,,53,63,73,83,2,,,38 + 25 = 63 viên bi,2
+2,Phép cộng trong phạm vi 100,2,Cộng các con số tròn chục,1,fill,60 + 30 = ?,,,,,,,90,chín mươi,6 chục + 3 chục = 9 chục = 90,1
+2,Phép trừ trong phạm vi 100,3,Trừ các con số tròn chục,1,mcq,80 - 30 = ?,,40,50,60,70,2,,,8 chục - 3 chục = 5 chục = 50,1
+2,Phép trừ trong phạm vi 100,3,Trừ các con số tròn chục,1,fill,70 - 40 = ?,,,,,,,30,ba mươi,7 chục - 4 chục = 3 chục = 30,1
+2,Phép trừ trong phạm vi 100,3,Trừ các con số tròn chục,1,mcq,? - 20 = 50,,60,70,80,90,2,,,50 + 20 = 70 nên ? = 70,2
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (không nhớ),2,fill,89 - 34 = ?,,,,,,,55,năm mươi lăm,89 - 34 = 55 (9-4=5; 8-3=5),1
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (không nhớ),2,mcq,76 - 23 = ?,,43,53,63,73,2,,,76 - 23 = 53 (6-3=3; 7-2=5),1
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (không nhớ),2,mcq,Có 68 cái kẹo. Ăn 25 cái. Còn lại bao nhiêu cái?,,33,43,53,63,2,,,68 - 25 = 43 cái kẹo,1
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (có nhớ),3,mcq,63 - 27 = ?,,34,36,38,46,2,,,63 - 27 = 36 (13-7=6 mượn 1; 5-2=3),2
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (có nhớ),3,fill,82 - 45 = ?,,,,,,,37,ba mươi bảy,82 - 45 = 37 (12-5=7 mượn 1; 7-4=3),2
+2,Phép trừ trong phạm vi 100,3,Trừ trong phạm vi 100 (có nhớ),3,mcq,Trên cây có 71 quả cam. Hái 34 quả. Còn lại bao nhiêu quả?,,37,47,27,57,1,,,71 - 34 = 37 quả cam,2
+2,Phép trừ trong phạm vi 100,3,Trừ các con số tròn chục,1,fill,90 - 60 = ?,,,,,,,30,ba mươi,9 chục - 6 chục = 3 chục = 30,1
+2,Giới thiệu phép nhân,4,Khái niệm phép nhân,1,mcq,"3 + 3 + 3 + 3 có thể viết thành phép nhân nào?",,3 × 3,3 × 4,4 × 4,3 × 5,2,,,"3 được cộng 4 lần nên 3 + 3 + 3 + 3 = 3 × 4",1
+2,Giới thiệu phép nhân,4,Khái niệm phép nhân,1,fill,2 + 2 + 2 = 2 × ?,,,,,,,3,ba,2 được cộng 3 lần nên 2 × 3,1
+2,Giới thiệu phép nhân,4,Khái niệm phép nhân,1,mcq,5 × 2 nghĩa là gì?,,5 + 5,2 + 2 + 2 + 2 + 2,5 + 2,5 - 2,1,,,5 × 2 = 5 + 5 (5 được cộng 2 lần),1
+2,Giới thiệu phép nhân,4,"Bảng nhân 2, 3, 4",2,mcq,4 × 3 = ?,,8,10,12,14,3,,,4 × 3 = 4 + 4 + 4 = 12,1
+2,Giới thiệu phép nhân,4,"Bảng nhân 2, 3, 4",2,fill,3 × 7 = ?,,,,,,,21,hai mươi mốt,3 × 7 = 21,1
+2,Giới thiệu phép nhân,4,"Bảng nhân 2, 3, 4",2,mcq,Mỗi hộp có 4 cái bánh. Có 5 hộp. Tất cả có bao nhiêu cái bánh?,,16,18,20,22,3,,,4 × 5 = 20 cái bánh,2
+2,Giới thiệu phép nhân,4,"Bảng nhân 5, 10",3,fill,5 × 6 = ?,,,,,,,30,ba mươi,5 × 6 = 30,1
+2,Giới thiệu phép nhân,4,"Bảng nhân 5, 10",3,mcq,10 × 4 = ?,,14,40,44,400,2,,,10 × 4 = 40,1
+2,Giới thiệu phép nhân,4,"Bảng nhân 5, 10",3,mcq,Mỗi túi có 5 quả táo. Có 8 túi. Tất cả có bao nhiêu quả?,,35,40,45,50,2,,,5 × 8 = 40 quả táo,2
+2,Giới thiệu phép nhân,4,"Bảng nhân 2, 3, 4",2,fill,2 × 9 = ?,,,,,,,18,mười tám,2 × 9 = 18,1
+2,"Đo độ dài, trọng lượng",5,"Đo độ dài (cm, m)",1,mcq,1 m bằng bao nhiêu cm?,,10,100,1000,50,2,,,1 m = 100 cm,1
+2,"Đo độ dài, trọng lượng",5,"Đo độ dài (cm, m)",1,fill,3 m = ? cm,,,,,,,300,ba trăm,3 × 100 = 300 cm,2
+2,"Đo độ dài, trọng lượng",5,"Đo độ dài (cm, m)",1,mcq,Bút chì dài 15 cm. Thước kẻ dài 30 cm. Thước dài hơn bút chì bao nhiêu cm?,,10,15,25,45,2,,,30 - 15 = 15 cm,1
+2,"Đo độ dài, trọng lượng",5,So sánh độ dài,2,mcq,Sợi dây A dài 45 cm. Sợi dây B dài 1 m. Sợi nào dài hơn?,,Dây A,Dây B,Bằng nhau,Không biết,2,,,1 m = 100 cm > 45 cm nên dây B dài hơn,2
+2,"Đo độ dài, trọng lượng",5,So sánh độ dài,2,fill,Đoạn thẳng AB dài 56 cm. Đoạn CD dài 78 cm. CD dài hơn AB bao nhiêu cm?,,,,,,,22,hai mươi hai,78 - 56 = 22 cm,2
+2,"Đo độ dài, trọng lượng",5,So sánh độ dài,2,mcq,"Sắp xếp theo thứ tự tăng dần: 1 m; 50 cm; 80 cm",,1 m - 50 cm - 80 cm,50 cm - 80 cm - 1 m,80 cm - 50 cm - 1 m,50 cm - 1 m - 80 cm,2,,,50 cm < 80 cm < 1 m (100 cm),2
+2,"Đo độ dài, trọng lượng",5,Cân nặng (kg),3,mcq,Quả dưa hấu nặng 3 kg. Quả bí nặng 5 kg. Cả hai nặng bao nhiêu kg?,,7,8,9,10,2,,,3 + 5 = 8 kg,1
+2,"Đo độ dài, trọng lượng",5,Cân nặng (kg),3,fill,Túi gạo nặng 10 kg. Lấy ra 4 kg. Còn lại bao nhiêu kg?,,,,,,,6,sáu,10 - 4 = 6 kg,1
+2,"Đo độ dài, trọng lượng",5,Cân nặng (kg),3,mcq,Con gà nặng 2 kg. Con vịt nặng gấp đôi con gà. Con vịt nặng bao nhiêu kg?,,2,3,4,6,3,,,2 × 2 = 4 kg,2
+2,"Đo độ dài, trọng lượng",5,"Đo độ dài (cm, m)",1,fill,150 cm = 1 m và ? cm,,,,,,,50,năm mươi,150 - 100 = 50 cm,2

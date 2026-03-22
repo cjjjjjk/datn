@@ -1,0 +1,51 @@
+grade,chapter_title,chapter_order,topic_title,topic_order,type,question_text,question_image,option_1,option_2,option_3,option_4,correct_option,fill_answer,fill_variants,explanation,difficulty
+3,Các con số tới 1000,1,Trăm và chục,1,mcq,Số 350 gồm mấy trăm và mấy chục?,,3 trăm 5 chục,5 trăm 3 chục,35 chục,3 chục 5 trăm,1,,,350 = 3 trăm + 5 chục + 0 đơn vị,1
+3,Các con số tới 1000,1,Trăm và chục,1,fill,Số 720 có mấy trăm?,,,,,,,7,bảy,720 = 7 trăm + 2 chục + 0 đơn vị,1
+3,Các con số tới 1000,1,Các con số 100-500,2,mcq,Số nào lớn nhất trong các số 215; 312; 198; 401?,,215,312,198,401,4,,,401 > 312 > 215 > 198,1
+3,Các con số tới 1000,1,Các con số 100-500,2,fill,Số liền sau của 399 là?,,,,,,,400,bốn trăm,399 + 1 = 400,1
+3,Các con số tới 1000,1,Các con số 500-1000,3,mcq,Số nào đứng giữa 698 và 700?,,697,698,699,701,3,,,698 < 699 < 700,1
+3,Các con số tới 1000,1,Các con số 500-1000,3,fill,Số lớn nhất có ba chữ số là?,,,,,,,999,chín trăm chín mươi chín,Số lớn nhất có 3 chữ số là 999,2
+3,Các con số tới 1000,1,So sánh và sắp xếp,4,mcq,"Sắp xếp theo thứ tự tăng dần: 540; 450; 504; 405",,405 - 450 - 504 - 540,540 - 504 - 450 - 405,450 - 405 - 540 - 504,504 - 540 - 405 - 450,1,,,405 < 450 < 504 < 540,2
+3,Các con số tới 1000,1,So sánh và sắp xếp,4,fill,Điền dấu (>; <; =): 567 ___ 576. Số bé hơn là?,,,,,,,567,năm trăm sáu mươi bảy,567 < 576 vì cùng hàng trăm nhưng 6 < 7 ở hàng chục,2
+3,Các con số tới 1000,1,Trăm và chục,1,mcq,Số nào có chữ số hàng trăm là 4 và hàng chục là 8?,,48,408,480,840,3,,,480 có hàng trăm = 4 và hàng chục = 8,2
+3,Các con số tới 1000,1,Các con số 100-500,2,fill,Điền số còn thiếu: 295; 296; 297; ?; 299,,,,,,,298,hai trăm chín mươi tám,Dãy số tự nhiên tăng dần: 297 + 1 = 298,1
+3,Phép nhân,2,Bảng nhân (ôn tập),1,mcq,6 × 7 = ?,,36,42,48,54,2,,,6 × 7 = 42,1
+3,Phép nhân,2,Bảng nhân (ôn tập),1,fill,8 × 9 = ?,,,,,,,72,bảy mươi hai,8 × 9 = 72,1
+3,Phép nhân,2,Bảng nhân (ôn tập),1,mcq,Mỗi bàn có 7 quyển sách. Có 6 bàn. Tất cả có bao nhiêu quyển?,,36,42,48,56,2,,,7 × 6 = 42 quyển sách,1
+3,Phép nhân,2,Nhân một chữ số với hai chữ số,2,fill,4 × 23 = ?,,,,,,,92,chín mươi hai,4 × 23 = 4 × 20 + 4 × 3 = 80 + 12 = 92,2
+3,Phép nhân,2,Nhân một chữ số với hai chữ số,2,mcq,3 × 15 = ?,,35,40,45,50,3,,,3 × 15 = 3 × 10 + 3 × 5 = 30 + 15 = 45,2
+3,Phép nhân,2,Nhân một chữ số với hai chữ số,2,mcq,Mỗi hộp có 12 cái bút. Có 5 hộp. Tất cả có bao nhiêu cái bút?,,50,55,60,65,3,,,12 × 5 = 60 cái bút,2
+3,Phép nhân,2,Nhân số tròn chục,3,fill,3 × 40 = ?,,,,,,,120,một trăm hai mươi,3 × 40 = 3 × 4 chục = 12 chục = 120,2
+3,Phép nhân,2,Nhân số tròn chục,3,mcq,5 × 60 = ?,,200,250,300,350,3,,,5 × 60 = 5 × 6 chục = 30 chục = 300,2
+3,Phép nhân,2,Nhân số tròn chục,3,mcq,Mỗi túi có 20 viên kẹo. Có 4 túi. Tất cả có bao nhiêu viên?,,60,70,80,90,3,,,20 × 4 = 80 viên kẹo,1
+3,Phép nhân,2,Bảng nhân (ôn tập),1,fill,9 × 6 = ?,,,,,,,54,năm mươi tư,9 × 6 = 54,1
+3,Phép chia,3,Bảng chia 2-5,1,mcq,24 ÷ 4 = ?,,4,5,6,8,3,,,24 ÷ 4 = 6 vì 4 × 6 = 24,1
+3,Phép chia,3,Bảng chia 2-5,1,fill,35 ÷ 5 = ?,,,,,,,7,bảy,35 ÷ 5 = 7 vì 5 × 7 = 35,1
+3,Phép chia,3,Bảng chia 2-5,1,mcq,Có 18 cái bánh chia đều cho 3 bạn. Mỗi bạn được mấy cái?,,5,6,7,9,2,,,18 ÷ 3 = 6 cái bánh,1
+3,Phép chia,3,Bảng chia 6-10,2,fill,56 ÷ 7 = ?,,,,,,,8,tám,56 ÷ 7 = 8 vì 7 × 8 = 56,1
+3,Phép chia,3,Bảng chia 6-10,2,mcq,72 ÷ 8 = ?,,7,8,9,10,3,,,72 ÷ 8 = 9 vì 8 × 9 = 72,1
+3,Phép chia,3,Bảng chia 6-10,2,mcq,Có 54 quả cam chia đều vào 9 rổ. Mỗi rổ có mấy quả?,,5,6,7,8,2,,,54 ÷ 9 = 6 quả cam,1
+3,Phép chia,3,Chia có dư,3,mcq,17 ÷ 5 = ?,,3 dư 1,3 dư 2,4 dư 2,2 dư 7,2,,,17 = 5 × 3 + 2 nên 17 ÷ 5 = 3 dư 2,2
+3,Phép chia,3,Chia có dư,3,fill,23 ÷ 4 có số dư là?,,,,,,,3,ba,23 = 4 × 5 + 3 nên số dư là 3,2
+3,Phép chia,3,Chia có dư,3,mcq,Có 25 viên bi chia đều cho 6 bạn. Mỗi bạn được mấy viên và thừa mấy viên?,,4 viên thừa 1,3 viên thừa 7,4 viên thừa 2,5 viên thừa 1,1,,,25 = 6 × 4 + 1 nên mỗi bạn 4 viên thừa 1,2
+3,Phép chia,3,Bảng chia 2-5,1,fill,40 ÷ 5 = ?,,,,,,,8,tám,40 ÷ 5 = 8 vì 5 × 8 = 40,1
+3,Phân số cơ bản,4,Khái niệm phân số,1,mcq,Một cái bánh chia thành 4 phần bằng nhau. Mỗi phần là bao nhiêu của cái bánh?,,1/2,1/3,1/4,1/5,3,,,Chia 4 phần bằng nhau thì mỗi phần là 1/4,1
+3,Phân số cơ bản,4,Khái niệm phân số,1,fill,Một sợi dây chia thành 3 phần bằng nhau. Mỗi phần là mấy phần của sợi dây? (ghi mẫu số),,,,,,,3,ba,Chia 3 phần bằng nhau thì mỗi phần là 1/3; mẫu số là 3,1
+3,Phân số cơ bản,4,Khái niệm phân số,1,mcq,Hình nào được tô màu 1/2?,,Hình tô 1 phần trong 3,Hình tô 1 phần trong 2,Hình tô 2 phần trong 3,Hình tô 1 phần trong 4,2,,,1/2 nghĩa là 1 phần trong 2 phần bằng nhau,1
+3,Phân số cơ bản,4,"Phân số 1/2, 1/3, 1/4",2,mcq,2/4 bằng phân số nào?,,1/2,1/3,1/4,2/3,1,,,2/4 = 1/2 (chia cả tử và mẫu cho 2),2
+3,Phân số cơ bản,4,"Phân số 1/2, 1/3, 1/4",2,fill,1/2 của 10 bằng bao nhiêu?,,,,,,,5,năm,1/2 của 10 = 10 ÷ 2 = 5,1
+3,Phân số cơ bản,4,"Phân số 1/2, 1/3, 1/4",2,mcq,1/3 của 12 bằng bao nhiêu?,,3,4,6,12,2,,,1/3 của 12 = 12 ÷ 3 = 4,1
+3,Phân số cơ bản,4,So sánh phân số,3,mcq,Phân số nào lớn hơn: 1/3 hay 1/4?,,1/4,1/3,Bằng nhau,Không biết,2,,,Cùng tử số thì mẫu số nhỏ hơn → phân số lớn hơn: 1/3 > 1/4,2
+3,Phân số cơ bản,4,So sánh phân số,3,fill,So sánh 2/5 và 3/5. Phân số lớn hơn có tử số là?,,,,,,,3,ba,Cùng mẫu số thì tử số lớn hơn → phân số lớn hơn: 3/5 > 2/5,2
+3,Phân số cơ bản,4,So sánh phân số,3,mcq,"Sắp xếp theo thứ tự tăng dần: 1/4; 1/2; 1/3",,1/4 - 1/3 - 1/2,1/2 - 1/3 - 1/4,1/3 - 1/4 - 1/2,1/2 - 1/4 - 1/3,1,,,1/4 < 1/3 < 1/2,3
+3,Phân số cơ bản,4,Khái niệm phân số,1,fill,Có 8 quả cam lấy đi 1/4. Lấy đi mấy quả?,,,,,,,2,hai,1/4 của 8 = 8 ÷ 4 = 2 quả,2
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (không nhớ),1,mcq,234 + 512 = ?,,736,746,756,646,2,,,234 + 512 = 746 (4+2=6; 3+1=4; 2+5=7),1
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (không nhớ),1,fill,421 + 365 = ?,,,,,,,786,bảy trăm tám mươi sáu,421 + 365 = 786 (1+5=6; 2+6=8; 4+3=7),1
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (không nhớ),1,mcq,Thư viện có 312 quyển sách. Mua thêm 245 quyển. Tất cả có bao nhiêu quyển?,,547,557,567,657,2,,,312 + 245 = 557 quyển sách,1
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (có nhớ),2,fill,467 + 285 = ?,,,,,,,752,bảy trăm năm mươi hai,467 + 285 = 752 (7+5=12 viết 2 nhớ 1; 6+8+1=15 viết 5 nhớ 1; 4+2+1=7),2
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (có nhớ),2,mcq,358 + 476 = ?,,724,734,824,834,4,,,358 + 476 = 834 (8+6=14 viết 4 nhớ 1; 5+7+1=13 viết 3 nhớ 1; 3+4+1=8),2
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (có nhớ),2,mcq,Trường A có 486 học sinh. Trường B có 375 học sinh. Cả hai trường có bao nhiêu học sinh?,,851,861,871,761,2,,,486 + 375 = 861 học sinh,2
+3,Phép cộng và trừ với số lớn,5,Trừ tới 1000,3,fill,876 - 432 = ?,,,,,,,444,bốn trăm bốn mươi tư,876 - 432 = 444 (6-2=4; 7-3=4; 8-4=4),1
+3,Phép cộng và trừ với số lớn,5,Trừ tới 1000,3,mcq,703 - 258 = ?,,445,455,545,555,1,,,703 - 258 = 445 (mượn hàng: 13-8=5; 9-5=4; 6-2=4),3
+3,Phép cộng và trừ với số lớn,5,Trừ tới 1000,3,mcq,Cửa hàng có 650 quả trứng. Bán 287 quả. Còn lại bao nhiêu quả?,,363,373,463,353,1,,,650 - 287 = 363 quả trứng,2
+3,Phép cộng và trừ với số lớn,5,Cộng tới 1000 (không nhớ),1,fill,130 + 240 = ?,,,,,,,370,ba trăm bảy mươi,130 + 240 = 370 (0+0=0; 3+4=7; 1+2=3),1

@@ -1,0 +1,151 @@
+grade,chapter_title,chapter_order,topic_title,topic_order,type,question_text,question_image,option_1,option_2,option_3,option_4,correct_option,fill_answer,fill_variants,explanation,difficulty
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số nào đứng sau số 4?,,3,5,6,4,2,,,4 + 1 = 5 nên số đứng sau số 4 là 5,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số nào lớn nhất trong các số 3 - 7 - 5 - 9?,,7,5,9,3,3,,,So sánh các số: 9 > 7 > 5 > 3,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,fill,Điền số còn thiếu: 1; 2; 3; ?; 5,,,,,,,4,bốn,Dãy số tự nhiên tăng dần: 1; 2; 3; 4; 5,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số 8 gồm mấy đơn vị?,,6,7,8,9,3,,,Số 8 gồm 8 đơn vị,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,fill,6 + ? = 10,,,,,,,4,bốn,10 - 6 = 4,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số nào bé hơn số 5?,,4,5,6,7,1,,,4 < 5 nên 4 bé hơn 5,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,Số mười lăm được viết là?,,15,51,14,16,1,,,Mười lăm = 15,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,fill,Số liền trước của 20 là?,,,,,,,19,mười chín,20 - 1 = 19,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,Số nào đứng giữa 17 và 19?,,16,17,18,20,3,,,17 < 18 < 19 nên 18 đứng giữa,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,12 gồm mấy chục và mấy đơn vị?,,1 chục 3 đơn vị,1 chục 2 đơn vị,2 chục 1 đơn vị,1 chục 1 đơn vị,2,,,12 = 1 chục + 2 đơn vị,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,3 + 4 = ?,,,,,,,7,bảy,3 cộng 4 bằng 7,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,5 + 2 = ?,,6,7,8,9,2,,,5 cộng 2 bằng 7,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,? + 3 = 8,,4,5,6,7,2,,,8 - 3 = 5 nên ? = 5,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,2 + 2 + 3 = ?,,,,,,,7,bảy,2 + 2 = 4; 4 + 3 = 7,2
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,Lan có 4 quả táo. Mẹ cho thêm 3 quả. Lan có tất cả mấy quả táo?,,6,7,8,9,2,,,4 + 3 = 7 quả táo,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,8 + 1 = ?,,7,8,9,10,3,,,8 cộng 1 bằng 9,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,9 + 8 = ?,,16,17,18,19,2,,,9 + 8 = 17,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,fill,7 + 6 = ?,,,,,,,13,mười ba,7 + 6 = 13,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,? + 9 = 18,,7,8,9,10,3,,,18 - 9 = 9 nên ? = 9,2
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,An có 8 bông hoa. Bình cho thêm 7 bông. An có tất cả mấy bông?,,13,14,15,16,3,,,8 + 7 = 15 bông hoa,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,fill,5 + 8 + 3 = ?,,,,,,,16,mười sáu,5 + 8 = 13; 13 + 3 = 16,2
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,8 - 3 = ?,,,,,,,5,năm,8 trừ 3 bằng 5,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,10 - 4 = ?,,5,6,7,8,2,,,10 - 4 = 6,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,7 - ? = 3,,3,4,5,6,2,,,7 - 4 = 3 nên ? = 4,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,Có 9 con chim. Bay đi 5 con. Còn lại mấy con?,,3,4,5,6,2,,,9 - 5 = 4 con chim,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,10 - 3 - 2 = ?,,,,,,,5,năm,10 - 3 = 7; 7 - 2 = 5,2
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,15 - 7 = ?,,6,7,8,9,3,,,15 - 7 = 8,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,fill,18 - 9 = ?,,,,,,,9,chín,18 - 9 = 9,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,20 - ? = 13,,5,6,7,8,3,,,20 - 7 = 13 nên ? = 7,2
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,Trên cây có 16 quả cam. Hái đi 9 quả. Còn lại mấy quả?,,6,7,8,9,2,,,16 - 9 = 7 quả cam,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,fill,20 - 8 - 4 = ?,,,,,,,8,tám,20 - 8 = 12; 12 - 4 = 8,2
+1,Hình học,4,Nhận biết hình,1,mcq,Hình nào có 4 cạnh bằng nhau?,,Hình tròn,Hình tam giác,Hình vuông,Hình chữ nhật,3,,,Hình vuông có 4 cạnh bằng nhau,1
+1,Hình học,4,Nhận biết hình,1,mcq,Hình tam giác có mấy cạnh?,,2,3,4,5,2,,,Hình tam giác có 3 cạnh và 3 góc,1
+1,Hình học,4,Nhận biết hình,1,fill,Hình tròn có mấy góc?,,,,,,,0,không,Hình tròn không có góc nào,1
+1,Hình học,4,Nhận biết hình,1,mcq,Hình nào không có góc?,,Hình vuông,Hình tam giác,Hình tròn,Hình chữ nhật,3,,,Hình tròn là hình cong nên không có góc,1
+1,Hình học,4,Nhận biết hình,1,mcq,Hình chữ nhật có mấy cạnh?,,2,3,4,5,3,,,Hình chữ nhật có 4 cạnh: 2 cạnh dài và 2 cạnh ngắn,1
+1,Đo lường,5,So sánh độ dài,1,mcq,Thước kẻ dài 20 cm. Bút chì dài 15 cm. Cái nào dài hơn?,,Bút chì,Thước kẻ,Bằng nhau,Không biết,2,,,20 cm > 15 cm nên thước kẻ dài hơn,1
+1,Đo lường,5,So sánh độ dài,1,fill,1 dm = ? cm,,,,,,,10,mười,1 dm = 10 cm,2
+1,Đo lường,5,So sánh độ dài,1,mcq,Đoạn AB dài 8 cm. Đoạn CD dài 8 cm. Hai đoạn thẳng đó như thế nào?,,AB dài hơn,CD dài hơn,Bằng nhau,Không so sánh được,3,,,8 cm = 8 cm nên hai đoạn thẳng bằng nhau,1
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,8 + 5 = ?,,12,13,14,15,2,,,8 + 2 = 10 rồi 10 + 3 = 13,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,7 + 8 = ?,,,,,,,15,mười lăm,7 + 3 = 10 rồi 10 + 5 = 15,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,6 + 7 = ?,,11,12,13,14,3,,,6 + 4 = 10 rồi 10 + 3 = 13,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,13 - 5 = ?,,7,8,9,10,2,,,13 - 3 = 10 rồi 10 - 2 = 8,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,16 - 7 = ?,,,,,,,9,chín,16 - 6 = 10 rồi 10 - 1 = 9,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,Hộp có 14 viên bi. Lấy ra 6 viên. Còn lại mấy viên?,,7,8,9,10,2,,,14 - 4 = 10 rồi 10 - 2 = 8,2
+1,Số học cơ bản,1,So sánh các số,3,mcq,Số nào lớn hơn: 7 hay 9?,,7,9,Bằng nhau,Không biết,2,,,9 > 7 nên 9 lớn hơn,1
+1,Số học cơ bản,1,So sánh các số,3,mcq,Điền dấu: 5 ___ 8,,>,<,=,+,2,,,5 < 8 vì 5 bé hơn 8,1
+1,Số học cơ bản,1,So sánh các số,3,fill,Số lớn nhất có một chữ số là?,,,,,,,9,chín,Các số có một chữ số: 1 đến 9; lớn nhất là 9,1
+1,Số học cơ bản,1,So sánh các số,3,mcq,Số nào bé hơn 10 và lớn hơn 7?,,6,7,8,9,3,,,7 < 8 < 10 nên 8 thỏa mãn điều kiện,1
+1,Số học cơ bản,1,So sánh các số,3,fill,Điền số: 3 < ? < 5,,,,,,,4,bốn,3 < 4 < 5,1
+1,Số học cơ bản,1,So sánh các số,3,mcq,"Sắp xếp theo thứ tự tăng dần: 9; 3; 6; 1",,1-3-6-9,9-6-3-1,3-6-1-9,6-3-9-1,1,,,Thứ tự tăng dần: từ bé đến lớn,1
+1,Số học cơ bản,1,So sánh các số,3,fill,Số liền sau của 14 là?,,,,,,,15,mười lăm,14 + 1 = 15,1
+1,Số học cơ bản,1,So sánh các số,3,mcq,Số nào đứng giữa 11 và 13?,,10,11,12,13,3,,,11 < 12 < 13,1
+1,Số học cơ bản,1,So sánh các số,3,mcq,"Trong các số 5; 12; 8; 17 số nào lớn nhất?",,5,12,8,17,4,,,17 là số lớn nhất trong nhóm,1
+1,Số học cơ bản,1,So sánh các số,3,fill,Số nhỏ nhất có hai chữ số là?,,,,,,,10,mười,Số nhỏ nhất có hai chữ số là 10,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số bảy được viết bằng chữ số nào?,,6,7,8,9,2,,,Bảy = 7,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,fill,Đếm: ★★★★★ có bao nhiêu ngôi sao?,,,,,,,5,năm,Có 5 ngôi sao,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,Số đứng trước số 10 là?,,7,8,9,10,3,,,9 + 1 = 10 nên 9 đứng trước 10,1
+1,Số học cơ bản,1,Số từ 1 đến 10,1,mcq,"Trong dãy số 1; 2; 3; 4; 5; số nào ở giữa?",,2,3,4,5,2,,,3 ở vị trí giữa dãy 5 số,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,fill,Số mười tám được viết là?,,,,,,,18,mười tám,18 là số mười tám,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,16 gồm mấy chục và mấy đơn vị?,,1 chục 5 đơn vị,1 chục 6 đơn vị,2 chục 6 đơn vị,1 chục 7 đơn vị,2,,,16 = 1 chục + 6 đơn vị,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,Số nào đứng ngay trước 20?,,17,18,19,20,3,,,19 + 1 = 20 nên 19 đứng trước 20,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,fill,11 gồm mấy chục và mấy đơn vị? (ghi số chục),,,,,,,1,một,11 = 1 chục + 1 đơn vị,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,1 + 9 = ?,,,,,,,10,mười,1 + 9 = 10,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,4 + 4 = ?,,6,7,8,9,3,,,4 + 4 = 8,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,0 + 7 = ?,,,,,,,7,bảy,Cộng với 0 không thay đổi số,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,3 + 3 + 3 = ?,,7,8,9,10,3,,,3 + 3 = 6; 6 + 3 = 9,2
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,? + 4 = 10,,,,,,,6,sáu,10 - 4 = 6,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,Hà có 3 cái kẹo. Mẹ mua thêm 5 cái. Hà có tất cả bao nhiêu cái kẹo?,,6,7,8,9,3,,,3 + 5 = 8,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,6 + 0 = ?,,5,6,7,8,2,,,Cộng với 0 kết quả không đổi: 6 + 0 = 6,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,10 + 7 = ?,,16,17,18,19,2,,,10 + 7 = 17,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,fill,12 + 5 = ?,,,,,,,17,mười bảy,12 + 5 = 17,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,6 + 13 = ?,,17,18,19,20,3,,,6 + 13 = 19,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,fill,11 + 9 = ?,,,,,,,20,hai mươi,11 + 9 = 20,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,Một hộp có 8 bút. Hộp kia có 9 bút. Tất cả bao nhiêu bút?,,15,16,17,18,3,,,8 + 9 = 17,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,14 + 4 = ?,,17,18,19,20,2,,,14 + 4 = 18,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,9 - 0 = ?,,8,9,10,7,2,,,Trừ 0 kết quả không đổi: 9 - 0 = 9,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,6 - 6 = ?,,,,,,,0,không,Số trừ chính nó bằng 0,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,10 - 1 = ?,,7,8,9,10,3,,,10 - 1 = 9,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,? - 3 = 5,,,,,,,8,tám,5 + 3 = 8,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,Hộp có 7 bánh. Ăn 2 cái. Còn lại mấy cái?,,3,4,5,6,3,,,7 - 2 = 5 chiếc bánh,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,8 - 2 - 3 = ?,,2,3,4,5,2,,,8 - 2 = 6; 6 - 3 = 3,2
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,20 - 10 = ?,,8,9,10,11,3,,,20 - 10 = 10,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,fill,17 - 4 = ?,,,,,,,13,mười ba,17 - 4 = 13,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,19 - 8 = ?,,9,10,11,12,3,,,19 - 8 = 11,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,fill,? - 6 = 9,,,,,,,15,mười lăm,9 + 6 = 15,2
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,Có 18 con gà. Bán 5 con. Còn lại mấy con?,,11,12,13,14,3,,,18 - 5 = 13,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,20 - 5 - 7 = ?,,6,7,8,9,3,,,20 - 5 = 15; 15 - 7 = 8,2
+1,Hình học,4,Nhận biết hình,1,fill,Hình vuông có bao nhiêu góc?,,,,,,,4,bốn,Hình vuông có 4 góc vuông,1
+1,Hình học,4,Nhận biết hình,1,mcq,Vật nào có dạng hình tròn?,,Quyển sách,Đồng xu,Viên gạch,Cái thước,2,,,Đồng xu có dạng hình tròn,1
+1,Hình học,4,Nhận biết hình,1,fill,Hình chữ nhật có bao nhiêu cạnh?,,,,,,,4,bốn,Hình chữ nhật có 4 cạnh,1
+1,Hình học,4,Đặc điểm các hình,2,mcq,Hình nào có 3 đỉnh?,,Hình vuông,Hình tam giác,Hình chữ nhật,Hình tròn,2,,,Hình tam giác có 3 đỉnh và 3 cạnh,1
+1,Hình học,4,Đặc điểm các hình,2,mcq,Hình vuông và hình chữ nhật đều có bao nhiêu cạnh?,,2,3,4,5,3,,,Cả hai đều có 4 cạnh,1
+1,Hình học,4,Đặc điểm các hình,2,fill,Hình tam giác có bao nhiêu cạnh?,,,,,,,3,ba,Tam giác = 3 cạnh,1
+1,Hình học,4,Đặc điểm các hình,2,mcq,Hình nào có tất cả các cạnh bằng nhau?,,Hình chữ nhật,Hình tam giác thường,Hình vuông,Hình thang,3,,,Hình vuông có 4 cạnh bằng nhau,1
+1,Hình học,4,Đặc điểm các hình,2,mcq,Vật nào có dạng hình chữ nhật?,,Đĩa,Quyển sách,Quả bóng,Đồng hồ tròn,2,,,Quyển sách có dạng hình chữ nhật,1
+1,Đo lường,5,So sánh độ dài,1,mcq,Sợi dây A dài 5 cm. Sợi dây B dài 8 cm. Sợi nào ngắn hơn?,,A,B,Bằng nhau,Không biết,1,,,5 cm < 8 cm nên dây A ngắn hơn,1
+1,Đo lường,5,So sánh độ dài,1,fill,Bút chì dài 12 cm. Thước dài 20 cm. Thước dài hơn bút chì bao nhiêu cm?,,,,,,,8,tám,20 - 12 = 8 cm,2
+1,Đo lường,5,So sánh độ dài,1,mcq,Đơn vị nào dùng để đo chiều dài?,,kg,cm,lít,giờ,2,,,cm (xăng-ti-mét) là đơn vị đo chiều dài,1
+1,Đo lường,5,Đơn vị đo,2,mcq,1 m bằng bao nhiêu cm?,,10,100,1000,1,2,,,1 m = 100 cm,2
+1,Đo lường,5,Đơn vị đo,2,fill,2 dm bằng bao nhiêu cm?,,,,,,,20,hai mươi,1 dm = 10 cm nên 2 dm = 20 cm,2
+1,Đo lường,5,Đơn vị đo,2,mcq,Đơn vị nào lớn hơn: cm hay dm?,,cm,dm,Bằng nhau,Không so sánh được,2,,,1 dm = 10 cm nên dm lớn hơn,1
+1,Đo lường,5,Đơn vị đo,2,fill,5 dm = ? cm,,,,,,,50,năm mươi,5 × 10 = 50 cm,2
+1,Đo lường,5,Đơn vị đo,2,mcq,Chiều cao bạn Minh là 12 dm. Đổi ra cm là?,,12,120,1200,1200,2,,,12 dm = 12 × 10 = 120 cm,2
+1,Đo lường,5,Đơn vị đo,2,mcq,Sợi dây dài 3 dm 5 cm = ? cm,,30,35,53,350,2,,,3 dm = 30 cm; 30 + 5 = 35 cm,3
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,9 + 4 = ?,,,,,,,13,mười ba,9 + 1 = 10; 10 + 3 = 13,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,5 + 7 = ?,,10,11,12,13,3,,,5 + 5 = 10; 10 + 2 = 12,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,8 + 8 = ?,,,,,,,16,mười sáu,8 + 2 = 10; 10 + 6 = 16,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,4 + 9 = ?,,11,12,13,14,3,,,4 + 6 = 10; 10 + 3 = 13,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,Hộp thứ nhất có 7 quả. Hộp thứ hai có 8 quả. Tất cả bao nhiêu quả?,,13,14,15,16,3,,,7 + 8 = 15,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,3 + 9 = ?,,,,,,,12,mười hai,3 + 7 = 10; 10 + 2 = 12,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,12 - 4 = ?,,,,,,,8,tám,12 - 2 = 10; 10 - 2 = 8,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,14 - 7 = ?,,5,6,7,8,3,,,14 - 4 = 10; 10 - 3 = 7,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,11 - 3 = ?,,,,,,,8,tám,11 - 1 = 10; 10 - 2 = 8,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,17 - 8 = ?,,7,8,9,10,3,,,17 - 7 = 10; 10 - 1 = 9,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,Có 15 bông hoa. Cắm vào bình 6 bông. Còn lại mấy bông?,,7,8,9,10,3,,,15 - 5 = 10; 10 - 1 = 9,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,20 - 13 = ?,,,,,,,7,bảy,20 - 10 = 10; 10 - 3 = 7,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,? - 8 = 5,,11,12,13,14,3,,,5 + 8 = 13 nên ? = 13,3
+1,Số học cơ bản,1,So sánh các số,3,mcq,Số nào bằng 10 + 5?,,13,14,15,16,3,,,10 + 5 = 15,1
+1,Số học cơ bản,1,So sánh các số,3,fill,Số đứng liền trước 17 là?,,,,,,,16,mười sáu,17 - 1 = 16,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,mcq,2 + 7 = ?,,7,8,9,10,3,,,2 + 7 = 9,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,1 + 1 + 1 + 1 = ?,,,,,,,4,bốn,1 + 1 = 2; 2 + 1 = 3; 3 + 1 = 4,1
+1,Phép cộng,2,Cộng trong phạm vi 20,2,fill,9 + 9 = ?,,,,,,,18,mười tám,9 + 1 = 10; 10 + 8 = 18,2
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,13 + 6 = ?,,17,18,19,20,3,,,13 + 6 = 19,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,9 - 5 = ?,,,,,,,4,bốn,9 - 5 = 4,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,mcq,7 - 0 = ?,,5,6,7,8,3,,,Trừ 0 kết quả không đổi: 7 - 0 = 7,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,fill,20 - 15 = ?,,,,,,,5,năm,20 - 15 = 5,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,16 - 3 = ?,,11,12,13,14,3,,,16 - 3 = 13,1
+1,Hình học,4,Nhận biết hình,1,mcq,Hình nào giống mặt đồng hồ treo tường tròn?,,Hình vuông,Hình chữ nhật,Hình tròn,Hình tam giác,3,,,Mặt đồng hồ tròn có dạng hình tròn,1
+1,Hình học,4,Đặc điểm các hình,2,fill,Hình tròn có bao nhiêu cạnh?,,,,,,,0,không,Hình tròn là đường cong khép kín không có cạnh thẳng,1
+1,Đo lường,5,So sánh độ dài,1,mcq,Con đường A dài 100 m. Con đường B dài 90 m. Con đường nào ngắn hơn?,,A,B,Bằng nhau,Không biết,2,,,90 m < 100 m nên đường B ngắn hơn,1
+1,Đo lường,5,Đơn vị đo,2,fill,3 m = ? dm,,,,,,,30,ba mươi,1 m = 10 dm; 3 m = 30 dm,3
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,6 + 9 = ?,,13,14,15,16,3,,,6 + 4 = 10; 10 + 5 = 15,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,7 + 7 = ?,,,,,,,14,mười bốn,7 + 3 = 10; 10 + 4 = 14,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,mcq,8 + 6 = ?,,12,13,14,15,3,,,8 + 2 = 10; 10 + 4 = 14,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,13 - 6 = ?,,5,6,7,8,3,,,13 - 3 = 10; 10 - 3 = 7,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,15 - 8 = ?,,,,,,,7,bảy,15 - 5 = 10; 10 - 3 = 7,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,18 - 9 = ?,,7,8,9,10,3,,,18 - 8 = 10; 10 - 1 = 9,2
+1,Số học cơ bản,1,Số từ 1 đến 10,1,fill,Số liền sau của 6 là?,,,,,,,7,bảy,6 + 1 = 7,1
+1,Số học cơ bản,1,Số từ 11 đến 20,2,mcq,Số nào lớn hơn 15 và bé hơn 18?,,13,16,18,20,2,,,15 < 16 < 18,1
+1,Phép cộng,2,Cộng trong phạm vi 10,1,fill,5 + 5 = ?,,,,,,,10,mười,5 + 5 = 10,1
+1,Phép trừ,3,Trừ trong phạm vi 10,1,fill,10 - 0 = ?,,,,,,,10,mười,Trừ 0 không thay đổi số,1
+1,Hình học,4,Đặc điểm các hình,2,mcq,Hình nào không có cạnh thẳng?,,Hình vuông,Hình chữ nhật,Hình tròn,Hình tam giác,3,,,Hình tròn là đường cong nên không có cạnh thẳng,1
+1,Đo lường,5,So sánh độ dài,1,fill,Đoạn thẳng AB dài 7 cm. Đoạn CD dài 12 cm. Đoạn CD dài hơn AB bao nhiêu cm?,,,,,,,5,năm,12 - 7 = 5 cm,2
+1,Cộng và trừ có nhớ,6,Cộng có nhớ trong 20,1,fill,9 + 6 = ?,,,,,,,15,mười lăm,9 + 1 = 10; 10 + 5 = 15,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,fill,16 - 9 = ?,,,,,,,7,bảy,16 - 6 = 10; 10 - 3 = 7,2
+1,Cộng và trừ có nhớ,6,Trừ có nhớ trong 20,2,mcq,11 - 4 = ?,,5,6,7,8,3,,,11 - 1 = 10; 10 - 3 = 7,2
+1,Phép cộng,2,Cộng trong phạm vi 20,2,mcq,8 + 11 = ?,,17,18,19,20,3,,,8 + 11 = 19,1
+1,Phép trừ,3,Trừ trong phạm vi 20,2,mcq,14 - 6 = ?,,6,7,8,9,3,,,14 - 4 = 10; 10 - 2 = 8,2
+1,Số học cơ bản,1,So sánh các số,3,mcq,Số nào là số chẵn?,,3,5,7,8,4,,,8 chia hết cho 2 nên là số chẵn,2
